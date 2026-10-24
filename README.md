@@ -97,8 +97,9 @@ python scripts/dataLoad_dw_sqlServer.py
 ```
 
 ### 4. Lancer le modèle prédictif Machine Learning
-
-```bash
+ 
+ 
+```bash 
 python scripts/06_ml_predict_consumption.py
 ```
 
