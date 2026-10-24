@@ -1,2 +1,13 @@
 data/processed/grdf_clean.csv
 data/raw/consommation-annuelle-de-gaz-par-iris-et-code-naf0.csv
+
+# Environnement virtuel Python
+venv/
+.venv/
+
+# Fichiers Python temporaires
+__pycache__/
+*.py[cod]
+
+# Variables d'environnement et secrets
+.env
