@@ -5,3 +5,7 @@ scikit-learn
 xgboost
 matplotlib
 seaborn
+openai 
+streamlit 
+plotly
+python-dotenv
